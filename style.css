@@ -7,11 +7,11 @@
   padding: 0.5rem 1rem;
 }
 .html-wrapper .header span {
-  font-size: 1rem;
+  font-size: 2.5rem;
   color: white;
 }
 .html-wrapper .header span {
-  font-size: 1.5rem;
+  font-size: 3.5rem;
 }
 .html-wrapper .header .goa {
   color: #e5f135;
@@ -25,14 +25,14 @@
   font-size: 1.3rem;
 }
 .html-wrapper .footer span {
-  font-size: 1rem;
+  font-size: 2.5rem;
   color: white;
 }
 .html-wrapper .body {
   min-height: 100vh;
 }
 .html-wrapper .body .confirmation-div {
-  padding: 4rem 0;
+  padding: 8rem 0;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -51,17 +51,17 @@
   display: none;
 }
 .html-wrapper .body .confirmation-div .confirmation-text {
-  padding: 1rem;
-  font-size: 1.5rem;
+  padding: 3rem;
+  font-size: 3.5rem;
 }
 .html-wrapper .body .confirmation-div img {
-  width: 5rem;
+  width: 15rem;
 }
 .html-wrapper .body .list-items.hidden {
   display: none;
 }
 .html-wrapper .body .list-items .product {
-  margin: 1rem;
+  margin: 3rem;
   border-radius: 0.25rem;
   border: 1px solid rgba(0, 0, 0, 0.125);
   display: -webkit-box;
@@ -77,7 +77,7 @@
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  padding: 1rem;
+  padding: 3rem;
 }
 .html-wrapper .body .list-items .product .image {
   width: 100%;
@@ -96,17 +96,17 @@
   height: 10rem;
 }
 .html-wrapper .body .list-items .product .name {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 .html-wrapper .body .list-items .product .button {
-  margin-top: 1rem;
+  margin-top: 2rem;
   width: auto;
   cursor: pointer;
   background: #449d44;
-  border-radius: 2rem;
-  padding: 0.5rem 1rem;
+  border-radius: 3rem;
+  padding: 1rem 2rem;
 }
 .html-wrapper .body .list-items .product .button span {
-  font-size: 1.3rem;
+  font-size: 3rem;
   color: white;
 }
